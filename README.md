@@ -6,7 +6,7 @@
 | CPU  处理器 | Intel Core i7-9700K @ 3.60GHz 八核    | 1900 |
 | MotherBoard 主板   | Asrock 华擎 Z390 Phantom Gaming-ITX/ac ( Z390 芯片组 )    | 1599|
 | RAM 内存   | 32 GB ( Corsair DDR4 3000MHz )    | 600*2 =1200 |
-| SSD  硬盘  | KXG50ZNV256G NVMe TOSHIBA 256GB    | 250|
+| SSD  硬盘  | INTEL 660p 1TB    | 850|
 | GPU 显卡   | AMD Radeon RX 460/560 ( 4 GB / 蓝宝石 )    | 650 |
 | Wifi 无线网卡 | 博通黑苹果无线网卡 BCM94352Z 4DB | 295 （无线蓝牙一体信号差，推荐加USB免驱动蓝牙）|
 | Bluetooth蓝牙| IOGEAR Bluetooth 4.0 USB Micro Adapter | 300|
@@ -63,3 +63,17 @@ USB 定制
 - SS08: Internal/Case USB3 
 - SS09: ??? possibly USB3 device on USB-C?
 - SS10: ??? possibly USB3 device on USB-C?
+
+
+跑个分
+GeekBench 5  
+单核成绩**1137** 高于MacBook Pro (16-inch Late 2019)i9-9980HK @ 2.4 GHz (8 cores) 1098
+多核成绩**6621** 高于MacBook Pro (16-inch Late 2019)i9-9980HK @ 2.4 GHz (8 cores) 6555
+ 
+![GeekBench](https://github.com/ericmore/Asrock-Z390-Phantom-Gaming-ITX-EFI/blob/main/Image/GeekBench.PNG)
+
+Disk Speed Test  
+![ssd](https://github.com/ericmore/Asrock-Z390-Phantom-Gaming-ITX-EFI/blob/main/Image/ssd.PNG)
+
+CINEBENCH R23
+![cinebench](https://github.com/ericmore/Asrock-Z390-Phantom-Gaming-ITX-EFI/blob/main/Image/cinebench.PNG)
