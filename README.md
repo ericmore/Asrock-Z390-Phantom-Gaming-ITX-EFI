@@ -67,13 +67,13 @@ USB 定制
 
 跑个分
 GeekBench 5  
-单核成绩**1137** 高于MacBook Pro (16-inch Late 2019)i9-9980HK @ 2.4 GHz (8 cores) 1098
-多核成绩**6621** 高于MacBook Pro (16-inch Late 2019)i9-9980HK @ 2.4 GHz (8 cores) 6555
+单核成绩**1137** 高于MacBook Pro (16-inch Late 2019)i9-9980HK @ 2.4 GHz (8 cores) 1098.  
+多核成绩**6621** 高于MacBook Pro (16-inch Late 2019)i9-9980HK @ 2.4 GHz (8 cores) 6555.  
  
-![GeekBench](https://github.com/ericmore/Asrock-Z390-Phantom-Gaming-ITX-EFI/blob/main/Image/GeekBench.PNG)
+![GeekBench](https://github.com/ericmore/Asrock-Z390-Phantom-Gaming-ITX-EFI/blob/main/Image/GeekBench.png)
 
 Disk Speed Test  
-![ssd](https://github.com/ericmore/Asrock-Z390-Phantom-Gaming-ITX-EFI/blob/main/Image/ssd.PNG)
+![ssd](https://github.com/ericmore/Asrock-Z390-Phantom-Gaming-ITX-EFI/blob/main/Image/ssd.png)
 
-CINEBENCH R23
-![cinebench](https://github.com/ericmore/Asrock-Z390-Phantom-Gaming-ITX-EFI/blob/main/Image/cinebench.PNG)
+CINEBENCH R23.  
+![cinebench](https://github.com/ericmore/Asrock-Z390-Phantom-Gaming-ITX-EFI/blob/main/Image/cinebench.png)
